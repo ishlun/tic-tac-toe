@@ -84,10 +84,3 @@ void drawDraw(Game *game_instance);
 void drawWin(Game *game_instance);
 void drawMap(Game *game_instance);
 void drawGame(Game *game_instance);
-
-
-/*
-    Чё сделать ёпта
-    доделать переключение типов клеток после победы
-    и мб починнить функции у бота ебаного блять
-*/
